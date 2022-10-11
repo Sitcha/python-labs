@@ -1,0 +1,34 @@
+1. git add <file_name.py>
+2. git commit -m "message for committing"
+3. git push
+
+
+###changing directories 
+if i am in C:\Users\yoyor\Desktop   and want to go to my-repos, type terminal ---ls (ie list folder to check if exist) then ---cd my-repos
+from repos to python-labs type terminal ---cd python-labs . From python-labs to lab3 type ---cd lab3.
+From lab3 to task1.py type ----python task1.py
+
+for example your in C:\Users\yoyor\my repos\python-labs and you want to go to an inside directory called lab2 
+
+type on terminal ---- cd lab2
+if you are in lab 2 and you want to go one directory back or a parent level directory simply type cd ..
+
+
+to run your program in python type on terminal -- python <file_name>
+
+
+
+
+number3 lab3
+1
+12
+123
+1234
+12345
+
+number 4 lab 3 
+1
+121
+12321
+1234321
+123454321
