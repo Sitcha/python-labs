@@ -1,4 +1,3 @@
-#program displacing unique numbers
 nums = []
 
 for i in range(3):
